@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.3">
+    <config>
+        <recursos>Recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>00FFFF</corbanda>
+        <cornavega>00FFFF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Aprendiendo Jugando-Restas</titulo>
+        <autor>Melba G</autor>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>Laresta.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="54">APRENDAMOS LA RESTA JUGANDO<br>
+<br>
+</font><font color="#080000" face="Arial" size="32"> Encuentra el resultado de la resta en cada ejercicio</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>38</tipo>
+              <imaxe>Laresta.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="46">En las siguientes actividades arrastra la respuesta correcta a cada uno de los ejercicios</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="2">Resta6.JPG</cousa>
+              <cousa nome="6">Resta7.JPG</cousa>
+              <cousa nome="7">Resta8.JPG</cousa>
+              <cousa nome="2">Resta9.JPG</cousa>
+              <cousa nome="3">Resta10.JPG</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="721">Resta1.JPG</cousa>
+              <cousa nome="212">Resta2.JPG</cousa>
+              <cousa nome="202">Resta3.JPG</cousa>
+              <cousa nome="253">Resta4.JPG</cousa>
+              <cousa nome="510">Resta5.JPG</cousa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="18">Resta11.JPG</cousa>
+              <cousa nome="15">Resta12.JPG</cousa>
+              <cousa nome="34">Resta13.JPG</cousa>
+              <cousa nome="29">Resta14.JPG</cousa>
+              <cousa nome="9">Resta15.JPG</cousa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>38</tipo>
+              <imaxe>Laresta.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="28">ORDENA LAS SIGUIENTES RESTAS POR SU RESULTADO DE MAYOR A MENOR</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="7" >
+              <tipo>35</tipo>
+              <forma>0</forma>
+              <completa>Resta20.JPG</completa>
+              <completa>Resta17.JPG</completa>
+              <completa>Resta16.JPG</completa>
+              <completa>Resta18.JPG</completa>
+              <completa>Resta19.JPG</completa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>35</tipo>
+              <forma>0</forma>
+              <completa>Resta22.JPG</completa>
+              <completa>Resta25.JPG</completa>
+              <completa>Resta23.JPG</completa>
+              <completa>Resta22.JPG</completa>
+              <completa>Resta21.JPG</completa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>38</tipo>
+              <imaxe>Laresta.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="46">CLASIFICA LAS SIGUIENTES RESTAS SEGÚN SU RESULTADO</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="10" >
+              <tipo>6</tipo>
+              <nome caixa="2">254-164</nome>
+              <nome caixa="1">825-484</nome>
+              <nome caixa="2">240-189</nome>
+              <nome caixa="1">623-277</nome>
+              <nome caixa="2">123-68</nome>
+              <nome caixa="2">25-9</nome>
+              <caixa1>Resultados mayores a 100</caixa1>
+              <caixa2>Resultados menores a 100</caixa2>
+        </paxina>
+        <paxina id="11" >
+              <tipo>6</tipo>
+              <nome caixa="1">152-83</nome>
+              <nome caixa="2">14-8</nome>
+              <nome caixa="2">25-18</nome>
+              <nome caixa="2">63-54</nome>
+              <nome caixa="1">37-8</nome>
+              <nome caixa="2">12-9</nome>
+              <caixa1>Su resultado es 2 cifras</caixa1>
+              <caixa2>Su resultado es 1 cifra</caixa2>
+        </paxina>
+    </libro>
+</lim>
